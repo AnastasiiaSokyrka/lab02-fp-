@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "sender": "anna kovalenko",
+        "region": "West",
+        "delivery_parts": [50, 30, 20]
+    },
+    {
+        "id": 2,
+        "sender": "mark petrenko",
+        "region": "East",
+        "delivery_parts": [40, 30]
+    },
+    {
+        "id": 3,
+        "sender": "oleg shevchenko",
+        "region": "West",
+        "delivery_parts": [80, 50]
+    },
+    {
+        "id": 4,
+        "sender": "sofia melnyk",
+        "region": "North",
+        "delivery_parts": [60, 20]
+    },
+    {
+        "id": 5,
+        "sender": "ivan bondar",
+        "region": "West",
+        "delivery_parts": [30, 20]
+    },
+    {
+        "id": 6,
+        "sender": "daria kravets",
+        "region": "East",
+        "delivery_parts": [100, 50]
+    }
+]
